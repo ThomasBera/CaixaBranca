@@ -33,7 +33,3 @@ Principais problemas identificados no código para a conexão com o banco de dad
 8. **Credenciais de Banco de Dados Codificadas**  
    **Problema**: As credenciais de acesso ao banco de dados estão codificadas diretamente no código-fonte.  
    **Solução**: Utilize variáveis de ambiente ou arquivos de configuração para armazenar essas informações de forma segura.
-
----
-
-Sinta-se à vontade para fazer mais ajustes se necessário! Se precisar de mais alguma coisa, é só avisar.
