@@ -1,0 +1,9 @@
+V(G): Complexidade Ciclomática
+E: Número de Arestas
+N: Número de Nós
+
+V(G) = E - N + 2
+
+V(G) = 13 - 12 + 2
+
+V(G) = 3
